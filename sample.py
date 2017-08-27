@@ -1,13 +1,3 @@
-''' movies  = ['batman','dark knight', 'inception']
-movies[0].title
-movies.insert(0,'inception')
-movies[0].lower()
-
-movie_0 = {'title' : 'Inception', 'director': 'Nolan', 'Year':2010}
-print(movie_0['title'])
- '''
-
-
 ## Defining a basic function
 def greet_user(username):
     ""'Display a sample greeting'""
@@ -79,3 +69,4 @@ def make_pizza(size, *toppings):
     print(toppings)
 
 make_pizza(12, 'mushrooms', 'cheeze')
+
